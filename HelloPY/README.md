@@ -19,7 +19,4 @@ print("HelloPy")
 </code>
 _____________________________
 #Comment
-we can use hash # for commenting anything. 
-<code>
-#Comment
-</code>
+we can use hash # for commenting anything.
