@@ -17,3 +17,9 @@ In Python 3 print is invoked as function
 <code>
 print("HelloPy")
 </code>
+_____________________________
+#Comment
+we can use hash # for commenting anything. 
+<code>
+#Comment
+</code>
