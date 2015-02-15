@@ -33,6 +33,5 @@ we can work with float and bool
 ```
 variable_float=10.4
 variable_bool=True
-variable_=False
-
-````
+variable_bool=False	
+```
