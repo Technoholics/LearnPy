@@ -14,6 +14,8 @@ To Start learn python you need python editor called IDLE or you can even use sev
 1) Start with HelloPy.md, An ritual we start learning any language by printing Hello World here we print HelloPy on screen
 ####<a href="https://github.com/BhaveshSGupta/LearnPy/blob/master/HelloPy.md">HelloPy.md</a>
 
-2) Second Variable-Declaration.md, it teaches ways to define a variable in Python
+2) Variable-Declaration.md, it teaches ways to define a variable in Python
 ####<a href="https://github.com/BhaveshSGupta/LearnPy/blob/master/Variable-Declaration.md">Variable-Declaration.md</a>
 
+3) Indentation.md.md, it decribes ways to structure your code
+####<a href="https://github.com/BhaveshSGupta/LearnPy/blob/master/ Indentation.md.md"> Indentation.md</a>
