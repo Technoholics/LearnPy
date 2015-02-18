@@ -24,6 +24,34 @@ xyz()
 #xyz() is used to call the function which would call the defined function xyz() would print hello
 ```
 
-
 The second block is more readable than first one. This type of comments are also used so that when in future if we refer our code we can check what and why we had written particular code block
 
+----
+####Comments 
+Comments are of two types:
+1)Single Line Comment
+2)Multi Line Comment
+
+
+#####Single Line Comment
+Single Line Comment can be declared by using <code>#</code> i.e. hash
+
+
+```
+#this is comment
+```
+
+#####MultiLine Comment
+Multi Line Comment can be declare by 
+<code>""" (text) """ </code>
+
+
+```
+"""
+This is first comment.
+this is second comment.
+.
+.
+
+"""
+```
