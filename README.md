@@ -1,5 +1,5 @@
 # LearnPy
-Ths repository is created to teach python to individual. If you'd like to share a project that would help others learn python please leave a comment or a pull request. Thank you! :)
+This repository is created to teach python to individual. If you'd like to share a project that would help others learn python please leave a comment or a pull request. Thank you! :)
 ____
 This repository is created to teach python to individual. If you'd like to share a project that would help others learn python please leave a comment or a pull request. Thank you! :)
 _____
@@ -19,11 +19,11 @@ To Start learn python you need python editor called IDLE or you can even use sev
 ####<a href="https://github.com/BhaveshSGupta/LearnPy/blob/master/Variable-Declaration.md">Variable-Declaration.md</a>
 Variable-Declaration.md, it teaches ways to define a variable in Python.
 
-####<a href="https://github.com/BhaveshSGupta/LearnPy/blob/master/Indentation.md">Indentation.md</a>
+####<a href="https://github.com/BhaveshSGupta/LearnPylob/master/Indentation.md">Indentation.md</a>
 Indentation.md, it decribes ways to structure your code.
 
 ####<a href="https://github.com/BhaveshSGupta/LearnPy/blob/master/Comments.md">Comments.md</a>
-Comments.md, it decribes ways to structure your code
+Comments.md, it contains details about declaring comments and making code user friendly
 
 ####<a href="https://github.com/BhaveshSGupta/LearnPy/blob/master/Mathematical-Operations.md">Mathematical-Operations.md</a>
-Mathematical-Operations.md, it decribes ways to structure your code.
+Mathematical-Operations.md, It teaches how to work with mathematical operations
