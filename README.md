@@ -24,3 +24,6 @@ Indentation.md, it decribes ways to structure your code.
 
 ####<a href="https://github.com/BhaveshSGupta/LearnPy/blob/master/Comments.md">Comments.md</a>
 Comments.md, it decribes ways to structure your code
+
+####<a href="https://github.com/BhaveshSGupta/LearnPy/blob/master/Mathematical-Operations.md">Mathematical-Operations.md</a>
+Mathematical-Operations.md, it decribes ways to structure your code.
