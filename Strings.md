@@ -27,6 +27,7 @@ statement = 'I don\'t have your book.'
 ```
 ##Array
 When we declared a string suppose for example name = "Bhavesh", then the actuall assignment is done as array. A memory space of the number of character in string is created starting with zero. And all character are stored in it character wise. The variable name would be having array as below
+```
 name[0]='B'
 name[1]='h'
 name[2]='a'
@@ -34,4 +35,11 @@ name[3]='v'
 name[4]='e'
 name[5]='s'
 name[6]='h'
+```
 Here in above 0,1,2...6 are called index of an array. At each index only one single variable is present. At index 0 'B', at index 1 'h' and so on
+ Working with Array is so awesome. consider the following code:
+ ```
+ third_letter = "Bhavesh'[2]
+ ```
+ The above code would assign a to third_letter.
+ ---
