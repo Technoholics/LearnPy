@@ -43,3 +43,25 @@ Here in above 0,1,2...6 are called index of an array. At each index only one sin
  ```
  The above code would assign a to third_letter.
  ---
+ ## String Manipulation
+ There are some predefined methods used for manipulating strings or else working with strings. Out of which we are going to see few:
+1. len() 
+2. lower()
+3. upper()
+4. str()
+### len()
+len() is used to calculate length of a string. For example suppose you want to find length of "LearnPy", then you can do that by `len("LearnPy")` you would get output as 7. Or else if you have a variable then its length can be calculated as `len(hello)`. That is you can provide string or variable both.
+### lower()
+lower() is used to convert sting into lower case. for example 
+```
+hello="LearnPy"
+hello.lower()
+```
+The output of above code would be `learnpy`
+### upper()
+upper() is used to convert sting into upper case. for example 
+```
+hello="LearnPy"
+hello.upper()
+```
+The output of above code would be `LEARNPY`
