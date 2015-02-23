@@ -45,7 +45,8 @@ Here in above 0,1,2...6 are called index of an array. At each index only one sin
  ---
 ##String Manipulation
 
-There are some predefined methods used for manipulating strings or else working with strings. Out of which we are going to see few:
+There are some predefined methods used for manipulating strings or else working with strings. Out of which we are going to see few
+
 1. len()
 2. lower()
 3. upper()
