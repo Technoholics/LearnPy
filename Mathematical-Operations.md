@@ -1,5 +1,5 @@
 #Basic Maths
-Basic mathematical operations can be easily performed in python. Operation like addition subtraction multiplcation and divide.
+Basic mathematical operations can be easily performed in python. Operation like addition subtraction multiplication and divide.
 on IDLE you can write as follows it would give us answer.
 ```
 
@@ -13,7 +13,7 @@ on IDLE you can write as follows it would give us answer.
 2
 
 ```
-or if you want to declare variable then you can also do as follows:
+Or if you want to declare variable then you can also do as follows:
 
 ```
 addition = 3 + 5
@@ -22,7 +22,7 @@ multiplication = 10 * 5
 division = 10 / 5
 
 ```
-You can view output by printting them.
+You can view output by printing them.
 
 ----
 Above were basic mathematical operations. Now something more.
@@ -38,7 +38,7 @@ Note: double asterisk symbol is used. While in multiplication single asterisk is
 ----
 
 ##Modulo
-For those who python is first programming language, modulo operator is widely used in every programming language. Modulo operator caluculates the remainder of the division of two number.
+For those who python is first programming language, modulo operator is widely used in every programming language. Modulo operator calculates the remainder of the division of two number.
 ```
 >>>3%2
 1
