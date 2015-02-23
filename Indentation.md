@@ -19,4 +19,4 @@ def funt():
 funt()
 ```
 
-In  Python Indentation can be provided by four spaces or single tab.
+In Python Indentation can be provided by four spaces or single tab.
