@@ -1,5 +1,5 @@
 #Comment
-Comment is used to make code readable. A programming language has limitation that we cant be declared as we talk in general english. Moreover comments are defined so that a non programmer can understand the things a program is doing.
+Comment is used to make code readable. A programming language has limitation that we can’t be declared as we talk in general English. Moreover comments are defined so that a non-programmer can understand the things a program is doing.
 
 example:
 ```
@@ -9,9 +9,9 @@ def xyz():
 xyz()
 ```
 
-Above code would not be understandable to a non programmer.
+Above code would not be understandable to a non-programmer.
 
-but Check out below
+But Check out below
 ```
 
 def xyz():#function with name xyz defined which would be used to print hello on screen
@@ -49,7 +49,7 @@ Multi Line Comment can be declare by
 ```
 """
 This is first comment.
-this is second comment.
+This is second comment.
 .
 .
 
