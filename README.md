@@ -25,6 +25,3 @@ Comments.md, it contains details about declaring comments and making code user f
 
 ####<a href="https://github.com/BhaveshSGupta/LearnPy/blob/master/Mathematical-Operations.md">Mathematical-Operations.md</a>
 Mathematical-Operations.md, It teaches how to work with mathematical operations
-
-####<a href="https://github.com/BhaveshSGupta/LearnPy/blob/master/Strings.md">Strings.md</a>
-Strings.md, It teaches how to work with Strings and string functions.
