@@ -7,6 +7,7 @@ But there exists a tool called 3to2 which coverts python 3.x to python 2.x.
 _____
 <a href="https://github.com/BhaveshSGupta/LearnPy/">LearnPy</a> is a collaborative repository for students and by the students to learn and teach python.
 To Start learn python you need python editor called IDLE or you can even use several python online interpreter.
+One can download python from www.python.org
 
 ----
 
